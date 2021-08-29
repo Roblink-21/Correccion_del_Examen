@@ -14,15 +14,31 @@ Integrantes:
 
 # Parte 1
 
+![image](https://user-images.githubusercontent.com/66259796/131237579-85f33c49-f96b-489a-bcde-5983e5d658fa.png)
+
+![image](https://user-images.githubusercontent.com/66259796/131237591-96ccdedd-b070-4cd0-87fd-d03d53ea1177.png)
+
 ![3](https://user-images.githubusercontent.com/66259796/131237303-f0730127-7bd7-42ce-b81a-aed8d8f0dcd6.PNG)
 
+![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
+
+![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
+
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
+
+![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
+
+![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
 
 ![image](https://user-images.githubusercontent.com/66259796/131237500-c37a8318-2cec-4fd4-a100-c3a64b97bd88.png)
 
 # Parte 2
+
+![image](https://user-images.githubusercontent.com/66259796/131237689-20b38b37-240a-42c8-9a8e-0c67b4013ffe.png)
+
+![image](https://user-images.githubusercontent.com/66259796/131237702-51a3609a-20c9-4c0f-bf72-5ca45447562f.png)
 
 ![4](https://user-images.githubusercontent.com/66259796/131237321-16dd1ef0-37fa-490d-bf90-11b335339d81.PNG)
 
