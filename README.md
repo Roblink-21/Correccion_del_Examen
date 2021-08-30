@@ -48,6 +48,8 @@ Integrantes:
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
 
+10. Comprobación del almacenamiento de los datos en couchDB en las bases de datos 'ciudad1', 'ciudad2' y 'ciudad3'
+
 ![image](https://user-images.githubusercontent.com/66259796/131237500-c37a8318-2cec-4fd4-a100-c3a64b97bd88.png)
 
 # Parte 2
