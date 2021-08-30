@@ -22,19 +22,19 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237591-96ccdedd-b070-4cd0-87fd-d03d53ea1177.png)
 
-3. Procedimiento del guardato en la base de datos.
+3. Procedimiento del guardado en la base de datos.
 
 ![3](https://user-images.githubusercontent.com/66259796/131237303-f0730127-7bd7-42ce-b81a-aed8d8f0dcd6.PNG)
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
 
-6. Procedimiento del guardato en la base de datos.
+6. Procedimiento del guardado en la base de datos.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
 
-9. Procedimiento del guardato en la base de datos.
+9. Procedimiento del guardado en la base de datos.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
 
@@ -56,7 +56,7 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237702-51a3609a-20c9-4c0f-bf72-5ca45447562f.png)
 
-3. Procedimiento del guardato en la base de datos.
+3. Procedimiento del guardado en la base de datos.
 
 ![4](https://user-images.githubusercontent.com/66259796/131237321-16dd1ef0-37fa-490d-bf90-11b335339d81.PNG)
 
