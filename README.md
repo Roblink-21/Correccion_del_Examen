@@ -28,9 +28,11 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
 
-6. Procedimiento del guardado en la base de datos.
+
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
+
+6. Procedimiento del guardado en la base de datos.
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
 
