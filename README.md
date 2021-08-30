@@ -36,17 +36,21 @@ Integrantes:
 
 # Parte 2
 
-Script 2 : "2.py" Contiene la cosecha de datos de Twitter en base a un track de palabras claves.
+* Script 2 : "2.py"
+
+1. Contiene la cosecha de datos de Twitter en base a un track de palabras claves.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237689-20b38b37-240a-42c8-9a8e-0c67b4013ffe.png)
 
-Creación de la base de datos 'track' con sus respectivas palabras claves 'atletismo','carreras'.
+2. Creación de la base de datos 'track' con sus respectivas palabras claves 'atletismo','carreras'.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237702-51a3609a-20c9-4c0f-bf72-5ca45447562f.png)
 
+3. Procedimiento del guardato en la base de datos.
+
 ![4](https://user-images.githubusercontent.com/66259796/131237321-16dd1ef0-37fa-490d-bf90-11b335339d81.PNG)
 
-Comprobación del almacenamiento de los datos en couchDB en la base de datos 'track' 
+4. Comprobación del almacenamiento de los datos en couchDB en la base de datos 'track'
 
 ![image](https://user-images.githubusercontent.com/66259796/131237528-5a9b2faf-ecfb-4dab-8d4b-26d99577db4e.png)
 
