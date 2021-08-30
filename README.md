@@ -46,7 +46,7 @@ Creación de la base de datos 'track' con sus respectivas palabras claves 'atlet
 
 ![4](https://user-images.githubusercontent.com/66259796/131237321-16dd1ef0-37fa-490d-bf90-11b335339d81.PNG)
 
-Guardado correcto en couchDB con el nombre 'track' 
+Comprobación del almacenamiento de los datos en couchDB en la base de datos 'track' 
 
 ![image](https://user-images.githubusercontent.com/66259796/131237528-5a9b2faf-ecfb-4dab-8d4b-26d99577db4e.png)
 
