@@ -80,7 +80,7 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/58041699/131235523-e4c89d15-25d0-4ed9-b0e3-48660fb10109.png)
 
-2. Se generan las funciones para su posterior limpieza 
+2. Se generan las funciones para su posterior limpieza mediante un for
 
 ![image](https://user-images.githubusercontent.com/58041699/131235530-0c03d5df-9e9e-485c-9183-871fb0a690eb.png)
 
