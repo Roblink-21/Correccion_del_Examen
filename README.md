@@ -42,6 +42,8 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
 
+8. Creación de la base de datos 'ciudad3' con las coordenadas de la tercera ciudad.
+
 ![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
 
 9. Procedimiento del guardado en la base de datos.
