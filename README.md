@@ -20,6 +20,8 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237579-85f33c49-f96b-489a-bcde-5983e5d658fa.png)
 
+2. Creación de la base de datos 'ciudad5' con las coordenadas de la primera ciudad.
+
 ![image](https://user-images.githubusercontent.com/66259796/131237591-96ccdedd-b070-4cd0-87fd-d03d53ea1177.png)
 
 3. Procedimiento del guardado en la base de datos.
@@ -28,7 +30,7 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
 
-
+5. Creación de la base de datos 'ciudad2' con las coordenadas de la segunda ciudad.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
 
@@ -36,11 +38,13 @@ Integrantes:
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
 
-9. Procedimiento del guardado en la base de datos.
+
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
 
 ![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
+
+9. Procedimiento del guardado en la base de datos.
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
 
