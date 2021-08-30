@@ -112,3 +112,22 @@ Integrantes:
 
 ![datasetMongoDB](https://user-images.githubusercontent.com/66259796/131237213-3bd6185c-87b6-485e-b951-ce3af1df735b.PNG)
 
+
+# Parte 7
+
+![image](https://user-images.githubusercontent.com/58041699/131396511-2e4f0a7d-528c-4718-8350-43c406ddcd6d.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396584-e112a790-52df-40fa-8de1-3bbbee3f5e0e.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396735-a68a012f-2b77-4482-b6e3-d52a03624e5d.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396774-cb08e6b0-2a14-49e9-9a56-7144a1d0619b.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396829-d24d99c1-c985-4b7b-8c06-d7ee25d8146b.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396856-bab52fb7-6d52-434c-9e2c-403250e59915.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131396953-2fc01b22-058d-48c4-9ac9-ba263aa4b672.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131397001-acc47cde-c074-43f4-9ec8-ee86e02be746.png)
+
