@@ -166,18 +166,23 @@ del host 127.0.0.1: 27017
 
 # Parte 9
 1. Importamos las librerias necesarias en nuestro Jupyter Notebook .
+
 ![image](https://user-images.githubusercontent.com/58041699/131416774-528b803b-035d-4ffe-ac79-8d6cc4d9e128.png)
 
 2. Establecemos conexión con MongoDB , donde seleccionamos la base de datos o una abse de datos local.
+
 ![image](https://user-images.githubusercontent.com/58041699/131416793-f5e152f2-559a-4518-8747-fe3a163bb227.png)
 
-3. Se nos presenta el estado de conexión sobre nuestra base de datos. 
+3. Se nos presenta el estado de conexión sobre nuestra base de datos.
+ 
 ![image](https://user-images.githubusercontent.com/58041699/131416820-ae16a421-ac23-4c0a-96fc-9fe481e583c3.png)
 
 4. Trasladamos nuestra lista a un dataframe , generando un archivo csv.
+
 ![image](https://user-images.githubusercontent.com/58041699/131416832-baa1057d-ed92-41e8-9b2f-8d86eb7ccda3.png)
 
 5.Se nos presenta los datos que han sido grabados en nuestra CSV con sus respectivos  atributos.
+
 ![image](https://user-images.githubusercontent.com/58041699/131416851-cf0c1e8f-595d-4f08-8f99-b0f99794f6b3.png)
 
 
