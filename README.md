@@ -6,7 +6,6 @@ Integrantes:
 
 * Miguel Cuenca
 * Luis Jacome
-* Kevin Morales
 * Roberth Pincha
 * Carlos Quel
 * Sebastian Valencia
@@ -146,6 +145,27 @@ El siguiente script es desarrollado en una linea de comandos de la cual solo se 
   # Evidencia 5
   
   ![Captura7](https://user-images.githubusercontent.com/58041699/127725009-f6cfdb0b-9bd9-467a-81b6-a1a89f236443.JPG)
+  
+# Parte 6
+
+En mongodb creamos una BD junto con su coleccion que sera nuestro repo para los datos que estan en SQL Lite.
+
+![image](https://user-images.githubusercontent.com/58041699/131435221-1d6ad9e1-ee33-4547-aea3-4052b0b74baf.png)
+
+Luego la tabla la exportamos como Json.
+
+![image](https://user-images.githubusercontent.com/58041699/131435582-b84665ea-0085-486c-8d90-8ce73cdd93c8.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131435757-c2012305-b59e-4875-83f8-26f20018c61f.png)
+
+Luego lo cargamos en nuestro MongoDB Compass el file .Json
+
+![image](https://user-images.githubusercontent.com/58041699/131435812-8b982d8d-2895-4139-8474-d0f4309bb384.png)
+
+![image](https://user-images.githubusercontent.com/58041699/131435902-f6ebe052-595d-4d7c-b751-7122fe2503db.png)
+
+
+
 
 # Parte 7
 
