@@ -155,20 +155,34 @@ del host 127.0.0.1: 27017
 
 
 # Parte 8
-
+1. 
 ![image](https://user-images.githubusercontent.com/58041699/131410362-8551cc3e-c813-46d9-a75d-cf15617250ee.png)
+
+2.Importamos las librerias necesarias en nuestro Jupyter Notebook .
 
 ![image](https://user-images.githubusercontent.com/58041699/131410427-3e337bc2-6a94-4986-9e31-b87c7ffa3ceb.png)
 
+3. Establecemos conexión con nuestro mongoDB  y ademas selecionamos nuestra base de datos. 
+
 ![image](https://user-images.githubusercontent.com/58041699/131410750-1edf0c32-7a29-4ee2-91c1-aa74718892d3.png)
+
+4. Ingresamos a nuestro mongoDB Atlas  y copiamos al dirección para poder sincronizar con nuestro MongoDB Compas
 
 ![image](https://user-images.githubusercontent.com/58041699/131410894-f7ce2164-ef0f-4736-b614-92cf4d209284.png)
 
+5. La dirección copiada de mongo atlas la ingresamos en nuestro cliente , y creamos la base de datos
+
 ![image](https://user-images.githubusercontent.com/58041699/131410811-a1420fe7-7662-4c05-894c-55baea301e7c.png)
+
+6. Establecemos en nuestro codigo para poder crear nuestra abse de datos.
 
 ![image](https://user-images.githubusercontent.com/58041699/131410994-aa47d8d3-ba38-403e-8837-c3e04e779c2d.png)
 
+7. Confirmamos la creación de nuestra base de datos, y no hemos presentado ningun problema. 
+
 ![image](https://user-images.githubusercontent.com/58041699/131411022-2fbca63a-9b2f-4268-8133-49b9ef672f17.png)
+
+8. Podemos apreciar en nuestro interfaz de mongoDB ya tenmos nuestra abse creada con sus respectivos datos y sus atributos.
 
 ![image](https://user-images.githubusercontent.com/58041699/131411112-4a8dd9f7-aca9-48cf-b22f-a3304c991dd5.png)
 
