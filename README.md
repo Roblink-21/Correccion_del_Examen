@@ -30,11 +30,11 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
 
-5. Creación de la base de datos 'ciudad2' con las coordenadas de la segunda ciudad.
+4. Creación de la base de datos 'ciudad2' con las coordenadas de la segunda ciudad.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
 
-6. Procedimiento del guardado en la base de datos.
+5. Procedimiento del guardado en la base de datos.
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
 
@@ -42,15 +42,15 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
 
-8. Creación de la base de datos 'ciudad3' con las coordenadas de la tercera ciudad.
+6. Creación de la base de datos 'ciudad3' con las coordenadas de la tercera ciudad.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
 
-9. Procedimiento del guardado en la base de datos.
+7. Procedimiento del guardado en la base de datos.
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
 
-10. Comprobación del almacenamiento de los datos en couchDB en las bases de datos 'ciudad1', 'ciudad2' y 'ciudad3'
+8. Comprobación del almacenamiento de los datos en couchDB en las bases de datos 'ciudad1', 'ciudad2' y 'ciudad3'
 
 ![image](https://user-images.githubusercontent.com/66259796/131237500-c37a8318-2cec-4fd4-a100-c3a64b97bd88.png)
 
@@ -101,7 +101,7 @@ Integrantes:
 ![image](https://user-images.githubusercontent.com/58041699/131235219-351a6b02-39e1-4977-9bd3-f2a4e95f3f92.png)
 
 # Parte 4
-1. Empezamos  estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas algo que tomar en cuenta es la direccion
+1. Empezamos  estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas algo que tomar en cuenta es la dirección
 del host 127.0.0.1: 27017
 ![image](https://user-images.githubusercontent.com/66259796/131237245-a119113d-8466-4453-b04c-009b1a1e5ce8.png)
 2. Podemos apreciar en el codigo asignamos por medio de un try un pint donde nos aseguramos  el guardado exitoso del dataset. 
