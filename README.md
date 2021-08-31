@@ -122,27 +122,35 @@ del host 127.0.0.1: 27017
 # Parte 7
 
 1. Creamos la base de datos en nuestro CouchDB.
+
 ![image](https://user-images.githubusercontent.com/58041699/131396511-2e4f0a7d-528c-4718-8350-43c406ddcd6d.png)
 
 2. Establecemos  el codigo para poder ingresar a nuestro couch db desde Jupyter notebook.
+
 ![image](https://user-images.githubusercontent.com/58041699/131396584-e112a790-52df-40fa-8de1-3bbbee3f5e0e.png)
 
-3.Asignamos el nombre de la base de datos.
+3. Asignamos el nombre de la base de datos.
+
 ![image](https://user-images.githubusercontent.com/58041699/131396735-a68a012f-2b77-4482-b6e3-d52a03624e5d.png)
 
 4. Nuestra base de datos fue creada en nuestro couchDb. 
+
 ![image](https://user-images.githubusercontent.com/58041699/131396774-cb08e6b0-2a14-49e9-9a56-7144a1d0619b.png)
 
 5. Establacemos la conexión con mongoDB.
+
 ![image](https://user-images.githubusercontent.com/58041699/131396829-d24d99c1-c985-4b7b-8c06-d7ee25d8146b.png)
 
 6. Nos presenta una pantalla el estado de la conexión.
+
 ![image](https://user-images.githubusercontent.com/58041699/131396856-bab52fb7-6d52-434c-9e2c-403250e59915.png)
 
 7.Nuestra base de datos en couchDB ya contiene nuestra base de datos .
+
 ![image](https://user-images.githubusercontent.com/58041699/131396953-2fc01b22-058d-48c4-9ac9-ba263aa4b672.png)
 
 8. Podemos apreciar los datos guardados en nuestra base de datos. 
+
 ![image](https://user-images.githubusercontent.com/58041699/131397001-acc47cde-c074-43f4-9ec8-ee86e02be746.png)
 
 
@@ -169,7 +177,7 @@ del host 127.0.0.1: 27017
 
 ![image](https://user-images.githubusercontent.com/58041699/131416774-528b803b-035d-4ffe-ac79-8d6cc4d9e128.png)
 
-2. Establecemos conexión con MongoDB , donde seleccionamos la base de datos o una abse de datos local.
+2. Establecemos conexión con MongoDB , donde seleccionamos la base de datos o una base de datos local.
 
 ![image](https://user-images.githubusercontent.com/58041699/131416793-f5e152f2-559a-4518-8747-fe3a163bb227.png)
 
@@ -181,20 +189,29 @@ del host 127.0.0.1: 27017
 
 ![image](https://user-images.githubusercontent.com/58041699/131416832-baa1057d-ed92-41e8-9b2f-8d86eb7ccda3.png)
 
-5.Se nos presenta los datos que han sido grabados en nuestra CSV con sus respectivos  atributos.
+5. Se nos presenta los datos que han sido grabados en nuestra CSV con sus respectivos  atributos.
 
 ![image](https://user-images.githubusercontent.com/58041699/131416851-cf0c1e8f-595d-4f08-8f99-b0f99794f6b3.png)
 
 
 # Parte 10
+1. Importamos las librerias necesarias en nuestro Jupyter Notebook.
 
 ![image](https://user-images.githubusercontent.com/58041699/131416276-c56ff258-59c6-4d12-a417-627503ad46ba.png)
 
+2. Establecemos conexión con MongoDB , donde seleccionamos la base de datos o una base de datos local.
+
 ![image](https://user-images.githubusercontent.com/58041699/131416306-441a405a-7389-4dab-ac56-56677e99c546.png)
+
+3. Se nos presenta el estado de conexión sobre nuestra base de datos.
 
 ![image](https://user-images.githubusercontent.com/58041699/131416333-58461121-bdc4-4066-aa96-a3b0a3eaf5f2.png)
 
+4. Trasladamos nuestra lista a un dataframe , generando un archivo json.
+
 ![image](https://user-images.githubusercontent.com/58041699/131416362-48bd292f-4988-4550-ad33-7677f0fa2453.png)
+
+5. Se nos presenta los datos que han sido grabados en nuestra CSV con sus respectivos  atributos.
 
 ![image](https://user-images.githubusercontent.com/58041699/131416385-b8927b7e-5225-4bde-985b-5cccb9e0f53d.png)
 
