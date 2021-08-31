@@ -118,6 +118,34 @@ del host 127.0.0.1: 27017
 5. Como podemos apreciar ya se nos presenta datos en nuestra base  de datos.
 ![datasetMongoDB](https://user-images.githubusercontent.com/66259796/131237213-3bd6185c-87b6-485e-b951-ce3af1df735b.PNG)
 
+# Parte 5
+
+El siguiente script es desarrollado en una linea de comandos de la cual solo se recogen los csv de las cuentas de tiktok
+  
+  ![Captura2](https://user-images.githubusercontent.com/58041699/127724845-94bd6fc2-375c-4c40-b35f-1be9cde9d644.JPG)
+
+  Ademas, se creo una carpeta contenedora para guardarlo y posteriormente usarlas para enviar estos datos a sql lite
+  
+  ![Captura](https://user-images.githubusercontent.com/58041699/127724865-6a478968-ec19-4ce4-9322-28b8f2f4ecfb.JPG)
+  
+  ![Captura3](https://user-images.githubusercontent.com/58041699/127724887-07de9c85-795b-4c15-93d3-e8a3e7c7b583.JPG)
+  
+  - Proceso SQL LITE
+  
+  Para ello debemos importar las librerias pandas y sql.
+  Ademas se debe mencionar la base de datos para hacer la coneccion con nuestro SQL LITE
+  
+  ![Captura4](https://user-images.githubusercontent.com/58041699/127724907-e4cf708a-24a1-4f89-9c05-3c93db3d4cfc.JPG)
+  
+  ![Captura5](https://user-images.githubusercontent.com/58041699/127724934-a8fc877d-4af2-4ea9-a146-088c361dad0b.JPG)
+
+  Por ultimo, junto a la nueva bd creada en sql, enviamos los datos de csv
+  
+  ![Captura6](https://user-images.githubusercontent.com/58041699/127724964-60aacbbb-9b18-429a-9d0d-86375f3e1948.JPG)
+  
+  # Evidencia 5
+  
+  ![Captura7](https://user-images.githubusercontent.com/58041699/127725009-f6cfdb0b-9bd9-467a-81b6-a1a89f236443.JPG)
 
 # Parte 7
 
