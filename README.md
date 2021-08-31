@@ -30,11 +30,11 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237620-20260d75-9407-40f4-8d32-f204e79ed416.png)
 
-4. Creación de la base de datos 'ciudad2' con las coordenadas de la segunda ciudad.
+5. Creación de la base de datos 'ciudad2' con las coordenadas de la segunda ciudad.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237628-75caf1f4-c0a5-445e-a72a-3cf5494d1b42.png)
 
-5. Procedimiento del guardado en la base de datos.
+6. Procedimiento del guardado en la base de datos.
 
 ![2](https://user-images.githubusercontent.com/66259796/131237306-4d69119e-426d-4dbd-b8de-85a06feba643.PNG)
 
@@ -42,15 +42,15 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/66259796/131237659-f2ffe055-a232-48cf-8948-b1251a7a8610.png)
 
-6. Creación de la base de datos 'ciudad3' con las coordenadas de la tercera ciudad.
+8. Creación de la base de datos 'ciudad3' con las coordenadas de la tercera ciudad.
 
 ![image](https://user-images.githubusercontent.com/66259796/131237672-89044708-2b8d-40b1-a310-0fe232e8809a.png)
 
-7. Procedimiento del guardado en la base de datos.
+9. Procedimiento del guardado en la base de datos.
 
 ![1](https://user-images.githubusercontent.com/66259796/131237292-370afe3a-55ba-4f69-8811-642f5ba8cd69.PNG)
 
-8. Comprobación del almacenamiento de los datos en couchDB en las bases de datos 'ciudad1', 'ciudad2' y 'ciudad3'
+10. Comprobación del almacenamiento de los datos en couchDB en las bases de datos 'ciudad1', 'ciudad2' y 'ciudad3'
 
 ![image](https://user-images.githubusercontent.com/66259796/131237500-c37a8318-2cec-4fd4-a100-c3a64b97bd88.png)
 
@@ -101,44 +101,48 @@ Integrantes:
 ![image](https://user-images.githubusercontent.com/58041699/131235219-351a6b02-39e1-4977-9bd3-f2a4e95f3f92.png)
 
 # Parte 4
-1. Empezamos  estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas algo que tomar en cuenta es la dirección
+1. Empezamos  estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas algo que tomar en cuenta es la direccion
 del host 127.0.0.1: 27017
 
 ![image](https://user-images.githubusercontent.com/66259796/131237245-a119113d-8466-4453-b04c-009b1a1e5ce8.png)
 
-2. Podemos apreciar en el codigo asignamos por medio de un try un pint donde nos aseguramos  el guardado exitoso del dataset.
-  
+2. Podemos apreciar en el codigo asignamos por medio de un try un pint donde nos aseguramos  el guardado exitoso del dataset. 
 ![image](https://user-images.githubusercontent.com/66259796/131237265-bdff3f3c-fb32-4ba0-a4ef-6dac5c45246c.png)
 
 3. Verificamos en el comando que la terminal nos imprime el texto guardado exitosamente.
-
 ![cmdExe](https://user-images.githubusercontent.com/66259796/131237170-fc7e7f90-4780-434b-b912-8e8f156b874c.PNG)
 
 4. Ya sale la base de datos creada  en nuestra interfaz.
- 
 ![DB](https://user-images.githubusercontent.com/66259796/131237210-516e7651-ae7b-4bdd-a09e-70183ec3ab0e.PNG)
 
 5. Como podemos apreciar ya se nos presenta datos en nuestra base  de datos.
- 
 ![datasetMongoDB](https://user-images.githubusercontent.com/66259796/131237213-3bd6185c-87b6-485e-b951-ce3af1df735b.PNG)
 
 
 # Parte 7
 
+1. Creamos la base de datos en nuestro CouchDB.
 ![image](https://user-images.githubusercontent.com/58041699/131396511-2e4f0a7d-528c-4718-8350-43c406ddcd6d.png)
 
+2. Establecemos  el codigo para poder ingresar a nuestro couch db desde Jupyter notebook.
 ![image](https://user-images.githubusercontent.com/58041699/131396584-e112a790-52df-40fa-8de1-3bbbee3f5e0e.png)
 
+3.Asignamos el nombre de la base de datos.
 ![image](https://user-images.githubusercontent.com/58041699/131396735-a68a012f-2b77-4482-b6e3-d52a03624e5d.png)
 
+4. Nuestra base de datos fue creada en nuestro couchDb. 
 ![image](https://user-images.githubusercontent.com/58041699/131396774-cb08e6b0-2a14-49e9-9a56-7144a1d0619b.png)
 
+5. Establacemos la conexión con mongoDB.
 ![image](https://user-images.githubusercontent.com/58041699/131396829-d24d99c1-c985-4b7b-8c06-d7ee25d8146b.png)
 
+6. Nos presenta una pantalla el estado de la conexión.
 ![image](https://user-images.githubusercontent.com/58041699/131396856-bab52fb7-6d52-434c-9e2c-403250e59915.png)
 
+7.Nuestra base de datos en couchDB ya contiene nuestra base de datos .
 ![image](https://user-images.githubusercontent.com/58041699/131396953-2fc01b22-058d-48c4-9ac9-ba263aa4b672.png)
 
+8. Podemos apreciar los datos guardados en nuestra base de datos. 
 ![image](https://user-images.githubusercontent.com/58041699/131397001-acc47cde-c074-43f4-9ec8-ee86e02be746.png)
 
 
