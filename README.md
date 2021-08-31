@@ -103,14 +103,23 @@ Integrantes:
 # Parte 4
 1. Empezamos  estableciendo la conexión con mongodb mediante pymongo y se hace la importación de las respectivas herramientas algo que tomar en cuenta es la dirección
 del host 127.0.0.1: 27017
+
 ![image](https://user-images.githubusercontent.com/66259796/131237245-a119113d-8466-4453-b04c-009b1a1e5ce8.png)
-2. Podemos apreciar en el codigo asignamos por medio de un try un pint donde nos aseguramos  el guardado exitoso del dataset. 
+
+2. Podemos apreciar en el codigo asignamos por medio de un try un pint donde nos aseguramos  el guardado exitoso del dataset.
+  
 ![image](https://user-images.githubusercontent.com/66259796/131237265-bdff3f3c-fb32-4ba0-a4ef-6dac5c45246c.png)
+
 3. Verificamos en el comando que la terminal nos imprime el texto guardado exitosamente.
+
 ![cmdExe](https://user-images.githubusercontent.com/66259796/131237170-fc7e7f90-4780-434b-b912-8e8f156b874c.PNG)
+
 4. Ya sale la base de datos creada  en nuestra interfaz.
+ 
 ![DB](https://user-images.githubusercontent.com/66259796/131237210-516e7651-ae7b-4bdd-a09e-70183ec3ab0e.PNG)
+
 5. Como podemos apreciar ya se nos presenta datos en nuestra base  de datos.
+ 
 ![datasetMongoDB](https://user-images.githubusercontent.com/66259796/131237213-3bd6185c-87b6-485e-b951-ce3af1df735b.PNG)
 
 
